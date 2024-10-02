@@ -1,3 +1,5 @@
+Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jitendarkumarsaini25/))
+
 # Webcam Age Detection #
 
 This project uses OpenCV and dlib to detect faces in real-time through a webcam feed and predict the age of the detected individuals. The age prediction is performed using a pre-trained deep learning model.
