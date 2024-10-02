@@ -29,8 +29,8 @@ pip install opencv-python dlib numpy
 1. Clone the repository:
 
 ```
-git clone https://github.com/jitendra205saini/webcam_gender_finder_python.git
-cd webcam_gender_finder_python
+git clone https://github.com/jitendra205saini/age_finder_using_python.git
+cd age_finder_using_python
 ```
 2. Download the pre-trained age model files and place them in the specified directories:
 
@@ -43,12 +43,9 @@ cd webcam_gender_finder_python
 Run the script from the command line:
 
 ```
-python your_script_name.py
+python AgeFinder.py
 ```
-## Example ##
-```
-python your_script_name.py
-```
+
 The webcam will open, and as it detects faces, it will predict and display the estimated age on the video feed.
 
 ## Key Code Features ##
